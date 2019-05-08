@@ -14,4 +14,8 @@ public class MainActivity extends AppCompatActivity {
     public static void show(String m){
 
     }
+
+    public static void adding(String m){
+
+    }
 }
